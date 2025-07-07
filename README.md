@@ -1,2 +1,2 @@
 # inventory-system
-System inventory warehouse
+System inventory 
